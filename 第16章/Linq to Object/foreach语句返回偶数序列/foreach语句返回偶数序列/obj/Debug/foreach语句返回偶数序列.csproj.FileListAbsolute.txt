@@ -1,0 +1,7 @@
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\bin\Debug\foreach语句返回偶数序列.exe.config
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\bin\Debug\foreach语句返回偶数序列.exe
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\bin\Debug\foreach语句返回偶数序列.pdb
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\obj\Debug\foreach语句返回偶数序列.csprojAssemblyReference.cache
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\obj\Debug\foreach语句返回偶数序列.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\obj\Debug\foreach语句返回偶数序列.exe
+F:\C#学习笔记\第16章\foreach语句返回偶数序列\foreach语句返回偶数序列\obj\Debug\foreach语句返回偶数序列.pdb

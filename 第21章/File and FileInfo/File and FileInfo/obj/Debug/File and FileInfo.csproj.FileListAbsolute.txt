@@ -1,0 +1,7 @@
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.exe.config
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.exe
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.pdb
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\obj\Debug\File and FileInfo.csprojAssemblyReference.cache
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\obj\Debug\File and FileInfo.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\obj\Debug\File and FileInfo.exe
+F:\C#学习笔记\第21章\File and FileInfo\File and FileInfo\obj\Debug\File and FileInfo.pdb

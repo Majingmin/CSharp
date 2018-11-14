@@ -1,0 +1,7 @@
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\bin\Debug\使用Linq to XML查询.exe.config
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\bin\Debug\使用Linq to XML查询.exe
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\bin\Debug\使用Linq to XML查询.pdb
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\obj\Debug\使用Linq to XML查询.csprojAssemblyReference.cache
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\obj\Debug\使用Linq to XML查询.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\obj\Debug\使用Linq to XML查询.exe
+F:\C#学习笔记\第16章\Linq to XML\使用Linq to XML查询\使用Linq to XML查询\obj\Debug\使用Linq to XML查询.pdb

@@ -1,0 +1,7 @@
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\Directory and DirectoryInfo.exe.config
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\Directory and DirectoryInfo.exe
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\Directory and DirectoryInfo.pdb
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\Directory and DirectoryInfo.csprojAssemblyReference.cache
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\Directory and DirectoryInfo.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\Directory and DirectoryInfo.exe
+F:\C#学习笔记\第21章\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\Directory and DirectoryInfo.pdb

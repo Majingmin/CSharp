@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合初始化器", "集合初始化器\集合初始化器.csproj", "{1284F692-437D-40BF-A2A3-C7BD27458743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1284F692-437D-40BF-A2A3-C7BD27458743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1284F692-437D-40BF-A2A3-C7BD27458743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1284F692-437D-40BF-A2A3-C7BD27458743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1284F692-437D-40BF-A2A3-C7BD27458743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805C9A5B-B5FE-4D8C-B3CF-EAB6F830AC06}
+	EndGlobalSection
+EndGlobal

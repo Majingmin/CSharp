@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引用类型参数的按值传递", "引用类型参数的按值传递\引用类型参数的按值传递.csproj", "{BDD18AC8-5647-4F9F-B7CA-BEB928F5117E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD18AC8-5647-4F9F-B7CA-BEB928F5117E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD18AC8-5647-4F9F-B7CA-BEB928F5117E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD18AC8-5647-4F9F-B7CA-BEB928F5117E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD18AC8-5647-4F9F-B7CA-BEB928F5117E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D2F514-A680-4C03-BC17-AB49F319F63D}
+	EndGlobalSection
+EndGlobal

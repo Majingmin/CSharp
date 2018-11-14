@@ -1,0 +1,7 @@
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\bin\Debug\泛型封闭还是开放.exe.config
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\bin\Debug\泛型封闭还是开放.exe
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\bin\Debug\泛型封闭还是开放.pdb
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\obj\Debug\泛型封闭还是开放.csprojAssemblyReference.cache
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\obj\Debug\泛型封闭还是开放.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\obj\Debug\泛型封闭还是开放.exe
+F:\C#学习笔记\第11章\泛型封闭还是开放\泛型封闭还是开放\obj\Debug\泛型封闭还是开放.pdb

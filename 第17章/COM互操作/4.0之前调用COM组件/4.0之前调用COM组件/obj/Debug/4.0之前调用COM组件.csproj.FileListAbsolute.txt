@@ -1,0 +1,7 @@
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\bin\Debug\4.0之前调用COM组件.exe.config
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\bin\Debug\4.0之前调用COM组件.exe
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\bin\Debug\4.0之前调用COM组件.pdb
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\obj\Debug\4.0之前调用COM组件.csprojAssemblyReference.cache
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\obj\Debug\4.0之前调用COM组件.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\obj\Debug\4.0之前调用COM组件.exe
+F:\C#学习笔记\第17章\COM互操作\4.0之前调用COM组件\4.0之前调用COM组件\obj\Debug\4.0之前调用COM组件.pdb

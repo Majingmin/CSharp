@@ -1,0 +1,2 @@
+F:\C#学习笔记\第20章\同步方式下载文件\同步方式下载文件\obj\Debug\同步方式下载文件.csprojAssemblyReference.cache
+F:\C#学习笔记\第20章\同步方式下载文件\同步方式下载文件\obj\Debug\同步方式下载文件.csproj.CoreCompileInputs.cache

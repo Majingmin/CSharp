@@ -1,0 +1,7 @@
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\obj\Debug\使用Xpath方式实现查询XML文件.csprojAssemblyReference.cache
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\obj\Debug\使用Xpath方式实现查询XML文件.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\bin\Debug\使用Xpath方式实现查询XML文件.exe.config
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\bin\Debug\使用Xpath方式实现查询XML文件.exe
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\bin\Debug\使用Xpath方式实现查询XML文件.pdb
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\obj\Debug\使用Xpath方式实现查询XML文件.exe
+F:\C#学习笔记\第16章\Linq to XML\使用Xpath方式实现查询XML文件\使用Xpath方式实现查询XML文件\obj\Debug\使用Xpath方式实现查询XML文件.pdb

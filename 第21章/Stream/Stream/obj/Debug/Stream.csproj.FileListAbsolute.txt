@@ -1,0 +1,7 @@
+F:\C#学习笔记\第21章\Stream\Stream\bin\Debug\Stream.exe.config
+F:\C#学习笔记\第21章\Stream\Stream\bin\Debug\Stream.exe
+F:\C#学习笔记\第21章\Stream\Stream\bin\Debug\Stream.pdb
+F:\C#学习笔记\第21章\Stream\Stream\obj\Debug\Stream.csprojAssemblyReference.cache
+F:\C#学习笔记\第21章\Stream\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第21章\Stream\Stream\obj\Debug\Stream.exe
+F:\C#学习笔记\第21章\Stream\Stream\obj\Debug\Stream.pdb

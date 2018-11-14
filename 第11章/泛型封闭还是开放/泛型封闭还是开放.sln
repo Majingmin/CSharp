@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型封闭还是开放", "泛型封闭还是开放\泛型封闭还是开放.csproj", "{47A5CB56-5520-4C72-B56F-DA1EE9DD1786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A5CB56-5520-4C72-B56F-DA1EE9DD1786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A5CB56-5520-4C72-B56F-DA1EE9DD1786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A5CB56-5520-4C72-B56F-DA1EE9DD1786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A5CB56-5520-4C72-B56F-DA1EE9DD1786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C8D9B0C-AA15-4E5F-8D2B-D8381B3436A4}
+	EndGlobalSection
+EndGlobal

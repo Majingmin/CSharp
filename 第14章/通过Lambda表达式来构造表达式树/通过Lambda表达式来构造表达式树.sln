@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通过Lambda表达式来构造表达式树", "通过Lambda表达式来构造表达式树\通过Lambda表达式来构造表达式树.csproj", "{BF761F4D-FB0B-431F-9368-32A75AA687CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF761F4D-FB0B-431F-9368-32A75AA687CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF761F4D-FB0B-431F-9368-32A75AA687CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF761F4D-FB0B-431F-9368-32A75AA687CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF761F4D-FB0B-431F-9368-32A75AA687CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC28106-2B5D-459F-8287-E8C58ACEDE52}
+	EndGlobalSection
+EndGlobal

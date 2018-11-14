@@ -1,0 +1,7 @@
+F:\C#学习笔记\第19章\前台-后台\前台-后台\bin\Debug\前台-后台.exe.config
+F:\C#学习笔记\第19章\前台-后台\前台-后台\bin\Debug\前台-后台.exe
+F:\C#学习笔记\第19章\前台-后台\前台-后台\bin\Debug\前台-后台.pdb
+F:\C#学习笔记\第19章\前台-后台\前台-后台\obj\Debug\前台-后台.csprojAssemblyReference.cache
+F:\C#学习笔记\第19章\前台-后台\前台-后台\obj\Debug\前台-后台.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第19章\前台-后台\前台-后台\obj\Debug\前台-后台.exe
+F:\C#学习笔记\第19章\前台-后台\前台-后台\obj\Debug\前台-后台.pdb

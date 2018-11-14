@@ -1,0 +1,7 @@
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\bin\Debug\对象集合初始化器.exe.config
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\bin\Debug\对象集合初始化器.exe
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\bin\Debug\对象集合初始化器.pdb
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\obj\Debug\对象集合初始化器.csprojAssemblyReference.cache
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\obj\Debug\对象集合初始化器.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\obj\Debug\对象集合初始化器.exe
+F:\C#学习笔记\第13章\对象集合初始化器\对象集合初始化器\obj\Debug\对象集合初始化器.pdb

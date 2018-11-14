@@ -1,0 +1,7 @@
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#学习笔记\第12章\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

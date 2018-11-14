@@ -1,0 +1,7 @@
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\bin\Debug\CurrentNamespace.exe.config
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\bin\Debug\CurrentNamespace.exe
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\bin\Debug\CurrentNamespace.pdb
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\obj\Debug\CurrentNamespace.csprojAssemblyReference.cache
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\obj\Debug\CurrentNamespace.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\obj\Debug\CurrentNamespace.exe
+F:\C#学习笔记\第15章\CurrentNamespace\CurrentNamespace\obj\Debug\CurrentNamespace.pdb

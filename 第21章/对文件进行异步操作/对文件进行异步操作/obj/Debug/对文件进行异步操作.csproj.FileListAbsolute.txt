@@ -1,0 +1,7 @@
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\bin\Debug\对文件进行异步操作.exe.config
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\bin\Debug\对文件进行异步操作.exe
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\bin\Debug\对文件进行异步操作.pdb
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\obj\Debug\对文件进行异步操作.csprojAssemblyReference.cache
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\obj\Debug\对文件进行异步操作.csproj.CoreCompileInputs.cache
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\obj\Debug\对文件进行异步操作.exe
+F:\C#学习笔记\第21章\对文件进行异步操作\对文件进行异步操作\obj\Debug\对文件进行异步操作.pdb
